@@ -7,7 +7,7 @@
 
 import Foundation
 
-class ResourcesHelper {
+struct ResourcesHelper {
 
     enum ResourcePath: String {
         case post
