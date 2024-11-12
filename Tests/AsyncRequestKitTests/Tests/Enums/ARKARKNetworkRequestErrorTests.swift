@@ -11,7 +11,7 @@ import Testing
 struct ARKNetworkErrorTests {
 
     @Test("ARKNetworkRequestError should correctly compare equality and inequality")
-    func equtable() throws {
+    func equalityAndInequality() throws {
         // Given
         let error1 = ARKNetworkRequestError.invalidRequest
         let error2 = ARKNetworkRequestError.error4xx(404)

@@ -19,7 +19,7 @@ let package = Package(
             name: "AsyncRequestKit"),
         .testTarget(
             name: "AsyncRequestKitTests",
-            dependencies: ["AsyncRequestKit"]
-        ),
+            dependencies: ["AsyncRequestKit"],
+            resources: [.process("Resources")]),
     ]
 )

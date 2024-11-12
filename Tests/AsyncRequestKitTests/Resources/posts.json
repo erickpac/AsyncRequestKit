@@ -1,62 +1,62 @@
 [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "The Rise of AI",
-    "body": "Artificial intelligence is transforming industries and creating new opportunities."
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "Climate Change",
-    "body": "Climate change is a pressing issue that requires immediate global action."
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "Space Exploration",
-    "body": "Space exploration is expanding our understanding of the universe."
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "Renewable Energy",
-    "body": "Renewable energy sources are key to a sustainable future."
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "Blockchain Technology",
-    "body": "Blockchain technology is revolutionizing the way we conduct transactions."
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "Cybersecurity",
-    "body": "Cybersecurity is essential in protecting our digital infrastructure."
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "Quantum Computing",
-    "body": "Quantum computing has the potential to solve complex problems faster than classical computers."
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "Healthcare Innovations",
-    "body": "Innovations in healthcare are improving patient outcomes and quality of life."
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "Autonomous Vehicles",
-    "body": "Autonomous vehicles are set to change the future of transportation."
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "5G Technology",
-    "body": "5G technology is enabling faster and more reliable wireless communication."
-  }
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "The Rise of AI",
+        "body": "Artificial intelligence is transforming industries and creating new opportunities."
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Climate Change",
+        "body": "Climate change is a pressing issue that requires immediate global action."
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "Space Exploration",
+        "body": "Space exploration is expanding our understanding of the universe."
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Renewable Energy",
+        "body": "Renewable energy sources are key to a sustainable future."
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Blockchain Technology",
+        "body": "Blockchain technology is revolutionizing the way we conduct transactions."
+    },
+    {
+        "userId": 1,
+        "id": 6,
+        "title": "Cybersecurity",
+        "body": "Cybersecurity is essential in protecting our digital infrastructure."
+    },
+    {
+        "userId": 1,
+        "id": 7,
+        "title": "Quantum Computing",
+        "body": "Quantum computing has the potential to solve complex problems faster than classical computers."
+    },
+    {
+        "userId": 1,
+        "id": 8,
+        "title": "Healthcare Innovations",
+        "body": "Innovations in healthcare are improving patient outcomes and quality of life."
+    },
+    {
+        "userId": 1,
+        "id": 9,
+        "title": "Autonomous Vehicles",
+        "body": "Autonomous vehicles are set to change the future of transportation."
+    },
+    {
+        "userId": 1,
+        "id": 10,
+        "title": "5G Technology",
+        "body": "5G technology is enabling faster and more reliable wireless communication."
+    }
 ]

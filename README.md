@@ -73,7 +73,7 @@ let apiClient = ARKAPIClient(baseURL: "https://yoururl.com")
 do {
     let result = try await apiClient.dispatch(Posts())
 } catch {
-    print(error.errorDescription)
+    print(error)
 }
 ```
 
