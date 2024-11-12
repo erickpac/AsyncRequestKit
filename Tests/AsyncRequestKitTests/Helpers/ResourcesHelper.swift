@@ -12,7 +12,8 @@ struct ResourcesHelper {
     enum ResourcePath: String {
         case post
         case posts
-        case incorrectTypePost = "incorrect_type_post"
+        case incorrectTypePost = "incorrect_type"
+        case malformed
     }
 
     enum URLConstants {
