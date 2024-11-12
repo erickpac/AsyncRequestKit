@@ -16,5 +16,4 @@ public extension Encodable {
         }
         return dictionary
     }
-
 }
