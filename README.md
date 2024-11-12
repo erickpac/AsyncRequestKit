@@ -80,3 +80,7 @@ do {
 ## License
 
 `AsyncRequestKit` is available under the MIT license. See the [LICENSE](LICENSE) file for more information.
+
+## Credits
+
+This project was inspired by the work in [WireKit](https://github.com/afterxleep/WireKit). Special thanks to the contributors of that project for their ideas and guidance.
