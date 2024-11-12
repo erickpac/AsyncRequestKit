@@ -11,15 +11,10 @@ import Testing
 
 struct ARKEncodableDictionaryTests {
 
-    struct TestStruct: Encodable {
-        let id: Int
-        let name: String
-    }
-
     @Test("Test that a struct with valid properties is correctly converted to a dictionary")
     func asDictionary() {
         // Given
-        let testStruct = TestStruct(id: 1, name: "Test")
+        let testStruct = TestModel(id: 1, name: "Test")
 
         // When
         let dictionary = testStruct.asDictionary
@@ -32,8 +27,7 @@ struct ARKEncodableDictionaryTests {
     @Test("Test that an empty struct is converted to an empty dictionary")
     func asDictionaryEmpty() {
         // Given
-        struct EmptyStruct: Encodable {}
-        let emptyStruct = EmptyStruct()
+        let emptyStruct = EmptyModel()
 
         // When
         let dictionary = emptyStruct.asDictionary
