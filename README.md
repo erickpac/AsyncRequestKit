@@ -28,7 +28,7 @@ Alternatively, add the following line to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/AsyncRequestKit", from: "1.0.0")
+    .package(url: "https://github.com/erickpac/AsyncRequestKit", from: "1.0.0")
 ]
 ```
 
