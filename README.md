@@ -12,7 +12,7 @@
 ## Requirements
 
 - **Swift**: 5.5 or later
-- **Platforms**: iOS 15.0+
+- **Platforms**: iOS 15.0+, tvOS 15.0+, macOS 10.15+
 - **Xcode**: 13.0 or later
 
 ## Installation
