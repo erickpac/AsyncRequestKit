@@ -68,12 +68,17 @@ struct DeletePost: ARKRequest {
     }
 }
 
-let apiClient = ARKAPIClient(baseURL: "https://yoururl.com")
+struct APIManagerProvider {
 
-do {
-    let result = try await apiClient.dispatch(Posts())
-} catch {
-    print(error)
+    let apiClient = ARKAPIClient(baseURL: "https://yoururl.com")
+
+    func fetchPosts() async {
+        do {
+            let result = try await apiClient.dispatch(Posts())
+        } catch {
+            print(error)
+        }
+    }
 }
 ```
 
